@@ -1,0 +1,245 @@
+
+html{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+body{
+	position: absolute;
+	/*position: relative;*/
+	background:  #e0f6d4;
+	background: #ffffff;
+	width: 100%;
+	min-height: 100%;
+	margin: 0;
+	padding: 0;
+}
+header{
+	position: fixed;
+	background: rgb(89,206,85);
+	background: rgb(72,159,69);
+	width: 100%;
+	height: 60px;
+	top: 0;
+	z-index: 100;
+}
+header section {
+	position: absolute;
+	background: transparent;
+	width: 22%;
+	height: 40px;
+	/*right: 0;*/
+	bottom: 0;
+	left: 26%;
+}
+header section ul{
+	list-style: none;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+header .socialmedia ul li{
+	/*background: pink;*/
+	width: 30px;
+	height: 30px;
+	list-style: none;
+	display: inline-block;
+	/*margin: 0;
+	padding: 0*/;
+}
+header .socialmedia ul li .facebook{
+	position: absolute;
+	background: transparent;
+	background-image: url(../img/logos/facebook.png);
+	width: 24px;
+	height: 24px;
+	margin: 0 0 0 56%;
+	transition: 0.08s;
+
+}
+header .socialmedia ul li .facebook:hover{
+	background: transparent;
+	background-image: url(../img/logos/facebook.png);
+	opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+header .socialmedia ul li .twitter{
+	position: absolute;
+	background: transparent;
+	background-image: url(../img/logos/twitter.png);
+	width: 24px;
+	height: 24px;
+	margin: 0 0 0 58%;
+	transition: 0.08s;
+}
+header .socialmedia ul li .twitter:hover{
+	background: transparent;
+	background-image: url(../img/logos/twitter.png);
+	opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+header .socialmedia ul li .instagram{
+	position: absolute;
+	background: transparent;
+	background-image: url(../img/logos/instagram.png);
+	width: 24px;
+	height: 24px;
+	margin: 0 0 0 60%;
+	transition: 0.08s;
+}
+header .socialmedia ul li .instagram:hover{
+	background: transparent;
+	background-image: url(../img/logos/instagram.png);
+	opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+header .socialmedia ul #telephone{
+	position: absolute;
+	background: transparent;
+	width: 140px;
+	margin: 0;
+	padding: 0;
+	color: #ffffff;
+	text-align: center;
+	line-height: 30px;
+}
+header nav{
+	position: absolute;
+	background: transparent;
+	width: 50%;
+	height: 30px;
+	margin: 26px 0 0 0;
+	right: 0;
+}
+header nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    /*overflow: hidden;*/
+    background-color: #333;
+    background-color: transparent;
+}
+header nav ul li{
+	background: transparent;
+	width: 16.66%;
+	height: 30px;
+	margin: 0;
+	padding: 0;
+	display: inline;
+	float: left;
+}
+header nav ul li a{
+	background:transparent;
+	width: 100%;
+	height: 31px;
+	display: block;
+	text-align: center;
+    text-decoration: none;
+}
+header nav ul li a:hover{
+	border-bottom: 3px solid #ffffff;
+}
+header ul li a{
+	text-decoration: none;
+	color: #ffffff;
+}
+header nav ul li:active{
+	border-bottom: 3px solid #ffffff;
+}
+header .brand{
+	position: absolute;
+	background: transparent;
+	background-image: url(../img/logos/pets_logo.png);
+	background-size: 186px 40px;
+    background-repeat: no-repeat;
+	width: 14%;
+	height: 40px;
+	margin: 0;
+	padding: 0;
+	left: 5%;
+	bottom: 10%;
+}
+body main{
+	position: relative;
+	width: 100%;
+	min-height: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body table {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+table, table tr, table tr td{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+table tr .aside{
+	position: absolute;
+	top: 60px;
+	margin: 0;
+	padding: 0;
+}
+table tr .main{
+	position: relative;
+	margin: 0;
+	padding: 80px 0;
+}
+
+footer{
+	position: absolute;
+	background: rgb(89,206,85);
+	background: rgb(72,159,69);
+	width: 100%;
+	height: 80px;
+	bottom: 0;
+	color: #ffffff;
+}
+footer .copyright{
+	background: transparent;
+	width: 30%;
+	margin: 20px 18px;
+}
+footer nav{
+	position: absolute;
+	background: transparent;
+	width: 30%;
+	height: 30px;
+	margin: 20px 18px;
+	padding: 0;
+	right: 0;
+	top: 0;
+}
+footer nav ul{
+	margin: 0;
+	padding: 0;
+}
+footer nav ul li{
+	background: transparent;
+	list-style: none;
+	display: inline-block;
+	height: 30px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+footer ul li a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+
+
+
+sw4 8lt
+headlamp road
+35 bruce house
+clapham park
